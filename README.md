@@ -250,7 +250,7 @@ This project illustrates a **complete end-to-end analytics workflow** — from r
  
 ⭐ *If you found this project useful, feel free to star the repo!*
  
-**Made with 💙 by [Mustapha](https://github.com/lazreg14)**
+**Made with 💙 by Tony Aires**
  
 </div>
 
