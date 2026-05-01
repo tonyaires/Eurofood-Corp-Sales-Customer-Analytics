@@ -61,6 +61,14 @@ The goal: convert raw sales data into a **decision-ready intelligence layer** fo
 > - 📊 **Interactive Power BI dashboard** for continuous monitoring
  
 ---
+
+## 📊 Dashboard Preview
+
+The final deliverable is an interactive Power BI dashboard designed for business stakeholders.
+
+![Dashboard](docs/eurofood_dashboard_page1.png)
+
+---
  
 ## 🧭 Business Objectives
  
