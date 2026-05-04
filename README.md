@@ -140,7 +140,7 @@ eurofood-analytics/
 
 │
 
-├── 📁 EuroFood_Analytics.ipynb          # Data cleaning & EDA (Python)
+├── 📁 EuroFood_Analytics.ipynb          # Data cleaning & EDA 
 
 ├── 📁 EuroFood_Data_Queries.sql         # SQL analysis queries (RFM segmentation, product ranking, revenue trends)
 
