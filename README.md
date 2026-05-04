@@ -140,25 +140,13 @@ eurofood-analytics/
 
 │
 
-├── 📁 data/                  # Raw and cleaned datasets
+├── 📁 EuroFood_Analytics.ipynb          # Data cleaning & EDA
 
-├── 📁 python/                # Notebooks (cleaning, EDA)
+├── 📁 EuroFood_Data_Queries.sql         # SQL analysis queries (RFM segmentation, product ranking, revenue trends)
 
-│   └── eurofood_eda.ipynb
+├── 📁 EuroFood_Dashboard.pdf            # Power BI dashboard export
 
-├── 📁 sql/                   # Analytical queries
-
-│   ├── rfm_segmentation.sql
-
-│   ├── product_ranking.sql
-
-│   └── revenue_trends.sql
-
-├── 📁 powerbi/               # Power BI .pbix file
-
-│   └── eurofood_dashboard.pbix
-
-├── 📁 docs/                  # Screenshots & documentation
+├── 📁 docs/                             # Screenshots & documentation
 
 └── README.md
 
